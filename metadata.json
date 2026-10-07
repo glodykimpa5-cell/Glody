@@ -1,0 +1,6 @@
+{
+  "name": "Glody Apprentis",
+  "description": "Application éducative pour les apprenants en sciences infirmières A2 (ITM RDC) : cours, QCM, examens blancs, assistant IA et révision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
